@@ -1,0 +1,35 @@
+.aligncenter {
+    text-align: center;
+}
+
+.proces1 {
+    background-color: lightblue;
+    width: 1200px;
+}
+
+.proces2 {
+    background-color: lightblue;
+    width: 1200px;
+}
+
+.proces3 {
+    background-color: lightblue;
+    width: 1200px;
+}
+
+.proces4 {
+    background-color: lightblue;
+    width: 1200px;
+}
+
+.proces5 {
+    background-color: lightblue;
+    width: 1200px;
+}
+
+#css {
+    position: absolute;
+    left: 55%;
+    top: 1020px;
+    background-color: lightcoral;
+}
